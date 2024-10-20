@@ -3,6 +3,8 @@ soy juan y me gusta jugar fort y valo :D
 
 Estudio ingeniería en computación 
 
+Ayuda me modifican
+
 # Comandos para git
 git add "nombre.extension"  ||  git add .   (Para cuando sea todo)
 git status (para saber que cambios han habido)
